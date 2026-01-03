@@ -1,4 +1,7 @@
 # 🧠 My AI Learning Journey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/benjam%C3%ADn-mart%C3%ADnez-p%C3%A9rez-17949434b/)
+[![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/BENMP0902)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tuusuario.png)](https://tryhackme.com/p/benjamin2401128)
 
 ![Status](https://img.shields.io/badge/Status-En_Progreso-green)
 ![Timeline](https://img.shields.io/badge/Timeline-12_Meses-blue)
