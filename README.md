@@ -39,7 +39,7 @@ ai-learning-journey/
 
 ```
 --🧩 Parte I: Fundamentos y Arquitectura (Meses 1-3)
-[ ] Hardware: Electrónica digital, Arquitectura CPU/GPU, CUDA.
+[x] Hardware: Electrónica digital, Arquitectura CPU/GPU, CUDA.
 
 [ ] Programación: Python intermedio, Estructuras de datos profundas.
 
